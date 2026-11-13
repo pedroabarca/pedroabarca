@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-Software developer building tools for people who work outside an office.
+Software developer building tools for people.
 
 ## What I'm working on
 
