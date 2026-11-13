@@ -13,11 +13,16 @@ Software developer building tools for people who work outside an office.
 - **AI:** LLM assistants with function calling over a real API, with confirmation before any write
 - **Cloud:** Google Cloud Run, Cloud Build, Cloud KMS, Docker, CI with secret scanning
 
-## Older projects
+## Professional experience
 
-- [Countries-React-App](https://github.com/pedroabarca/Countries-React-App) — single-page React app (TypeScript) to teach some React usages, 2025
-- [GoPlants](https://github.com/pedroabarca/GoPlants) — reforestation projects monitoring platform, 2017
-- [acknowledmentProgram](https://github.com/pedroabarca/acknowledmentProgram) — acknowledgments tracking with Hyperledger Composer (blockchain), 2019
-- [Automation](https://github.com/pedroabarca/Automation) — test automation with Node.js, Selenium and ChromeDriver, 2018
-- [ReactJs-redusExample](https://github.com/pedroabarca/ReactJs-redusExample) — Redux in React boilerplate, 2018
-- [langShot_ionic2_client](https://github.com/pedroabarca/langShot_ionic2_client) — Ionic 2 client app for LangShot, a social network to learn a language, 2017
+Most of my career I have worked for companies — **Intel, Confiz, Ampstek, Encora and Nordstrom** — and that work lives in their private repositories, so none of it can be shown here.
+
+## Old repositories
+
+The public repositories below are **very old projects, from when I was starting out or learning something new**. They are not representative of how I work today; for that, see FARM above.
+
+- [Countries-React-App](https://github.com/pedroabarca/Countries-React-App) — a small React app (TypeScript) to teach some React usages
+- [ReactJs-redusExample](https://github.com/pedroabarca/ReactJs-redusExample) — Redux in React boilerplate
+- [AngularJS_localStorage_buscandoRide](https://github.com/pedroabarca/AngularJS_localStorage_buscandoRide) — my first try at AngularJS, using local storage
+- [Buscando_Ride_restFul](https://github.com/pedroabarca/Buscando_Ride_restFul) — my first back-end app, a PHP API
+- [GoPlants](https://github.com/pedroabarca/GoPlants) — a reforestation projects monitoring platform
