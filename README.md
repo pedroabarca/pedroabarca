@@ -15,4 +15,9 @@ Software developer building tools for people who work outside an office.
 
 ## Older projects
 
-Some of my earlier work is in the pinned repositories below: React and AngularJS apps, mobile (Ionic) and test automation.
+- [Countries-React-App](https://github.com/pedroabarca/Countries-React-App) — single-page React app (TypeScript) to teach some React usages, 2025
+- [GoPlants](https://github.com/pedroabarca/GoPlants) — reforestation projects monitoring platform, 2017
+- [acknowledmentProgram](https://github.com/pedroabarca/acknowledmentProgram) — acknowledgments tracking with Hyperledger Composer (blockchain), 2019
+- [Automation](https://github.com/pedroabarca/Automation) — test automation with Node.js, Selenium and ChromeDriver, 2018
+- [ReactJs-redusExample](https://github.com/pedroabarca/ReactJs-redusExample) — Redux in React boilerplate, 2018
+- [langShot_ionic2_client](https://github.com/pedroabarca/langShot_ionic2_client) — Ionic 2 client app for LangShot, a social network to learn a language, 2017
